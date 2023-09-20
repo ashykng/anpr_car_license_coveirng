@@ -1,0 +1,4 @@
+If you want to add the logo on license of the cars in images,
+you have to run the add_logo.py file
+
+you can check results folder...
